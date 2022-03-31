@@ -17,5 +17,6 @@
 - cgroups       
     - 프로세스들의 자원의 사용을 제한하고 격리    
 
-- cgroups       
-    - 프로세스들의 자원의 사용을 제한하고 격리    
+- Container Runtime       
+    - 컨테이너를 생성하고 실행하는 엔진.   
+    - 대표적으로 Docker, ContainerD, CRI-O가 있음.  
